@@ -1,0 +1,11 @@
+/data/
+/results/
+*.rds
+*.RData
+*.qs
+*.h5ad
+*.h5
+*.mtx
+*.bam
+*.fastq.gz
+__pycache__/
